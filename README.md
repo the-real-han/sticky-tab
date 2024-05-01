@@ -1,1 +1,0 @@
-# sticky-tab-site-public
